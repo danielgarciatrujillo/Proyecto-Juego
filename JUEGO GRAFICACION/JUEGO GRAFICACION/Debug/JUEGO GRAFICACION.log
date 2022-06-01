@@ -1,0 +1,5 @@
+﻿  Texturas.cpp
+c:\users\danym\onedrive\documentos\juego graficacion\juego graficacion\texturas.cpp(722): warning C4102: 'sa3': etiqueta sin referencia
+c:\users\danym\onedrive\documentos\juego graficacion\juego graficacion\texturas.cpp(737): warning C4102: 'fuera': etiqueta sin referencia
+c:\users\danym\onedrive\documentos\juego graficacion\juego graficacion\texturas.cpp(777): warning C4102: 'sig': etiqueta sin referencia
+  JUEGO GRAFICACION.vcxproj -> C:\Users\danym\OneDrive\Documentos\JUEGO GRAFICACION\Debug\JUEGO GRAFICACION.exe
