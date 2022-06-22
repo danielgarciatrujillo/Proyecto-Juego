@@ -1,4 +1,4 @@
-# Proyecto-Juego
+# Proyecto-Juego Speedrun
 ## Resumen del juego
 Este juego consiste en meter al usuario dentro de un escenario cuadrado de donde no puede salir ya que estará delimitado por muros y también con obstáculos que bloquean la vista y el movimiento libre por el escenario. Desde que empieza a correr el juego también se inicia un temporizador visible en el centro de la pantalla que inicia en 80 segundos, el juego se termina si el jugador logra conseguir 5 botiquines repartidos por todo el mapa en el tiempo establecido o en caso contrario se mostrará un mensaje diciendo que el tiempo se acabó y procederá a cerrarse automáticamente
 ## Requisitos para correr el juego
